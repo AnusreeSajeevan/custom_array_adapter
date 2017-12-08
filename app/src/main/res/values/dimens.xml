@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_20">20dp</dimen>
+    <dimen name="list_item_height">100dp</dimen>
+    <dimen name="image_size">100dp</dimen>
+    <dimen name="text_size">20dp</dimen>
+</resources>
